@@ -23,7 +23,7 @@ Hacer andar la calculadora es muy fácil. Solo sigue estos pasos:
     `python main.py`
     *(Nota: Si usas Mac o Linux, es posible que debas escribir `python3 main.py`).*
 
-## 🎮 Instrucciones de uso
+## Instrucciones de uso
 
 Una vez que el programa esté funcionando, verás un menú con 6 opciones en tu pantalla. Usarlo es como seguir una conversación:
 
